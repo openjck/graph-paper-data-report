@@ -10,4 +10,4 @@
   // NOTE: The Hardware dataset supports only one category, default.
 </script>
 
-<h1>Hardware</h1>
+<h2>Hardware</h2>

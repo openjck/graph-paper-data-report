@@ -8,4 +8,4 @@
   // https://data.firefox.com/datasets/desktop/usage-behavior/Worldwide/top10addons/index.json
 </script>
 
-<h1>Usage Behavior</h1>
+<h2>Usage Behavior</h2>

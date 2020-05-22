@@ -8,4 +8,4 @@
   // https://data.firefox.com/datasets/desktop/user-activity/Worldwide/YAU/index.json
 </script>
 
-<h1>User Activity</h1>
+<h2>User Activity</h2>
