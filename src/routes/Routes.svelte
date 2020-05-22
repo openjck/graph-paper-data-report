@@ -2,8 +2,10 @@
   import page from "page";
 
   // Pages
-  import Index from "./index.svelte";
-  import Explore from "./explore.svelte";
+  import Index from "./Index.svelte";
+  import UserActivity from "./UserActivity.svelte";
+  import UsageBehavior from "./UsageBehavior.svelte";
+  import Hardware from "./Hardware.svelte";
 
   let component;
   let params;
@@ -16,7 +18,9 @@
   }
 
   page("/", setComponent(Index));
-  page("/#explore", setComponent(Explore));
+  page("/dashboard/user-activity", setComponent(UserActivity));
+  page("/dashboard/usage-behavior", setComponent(UsageBehavior));
+  page("/dashboard/hardware", setComponent(Hardware));
   page({ hashbang: true });
 </script>
 

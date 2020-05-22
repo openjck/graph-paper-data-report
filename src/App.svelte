@@ -3,8 +3,10 @@
 </script>
 
 <nav>
-  <a href="/">home</a>
-  <a href="/#explore">explore</a>
+  <a href="/">Home</a>
+  <a href="/dashboard/user-activity">User Activity</a>
+  <a href="/dashboard/usage-behavior">Usage Behavior</a>
+  <a href="/dashboard/hardware">Hardware</a>
 </nav>
 
 <Routes />
