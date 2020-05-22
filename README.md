@@ -1,6 +1,6 @@
-A partial reimplementation of the [Firefox Public Data
-Report](https://data.firefox.com/) in graph-paper, for educational purposes
-only.
+A partial reimplementation of the
+[Firefox Public Data Report](https://data.firefox.com/) in graph-paper, for
+educational purposes only.
 
 ## Development
 
